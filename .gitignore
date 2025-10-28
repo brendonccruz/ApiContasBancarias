@@ -1,0 +1,15 @@
+# Arquivo .gitignore para um projeto .NET
+
+# Pasta de compilação
+[Bb]in/
+[Oo]bj/
+
+# Banco de dados SQLite
+*.db
+*.db-journal
+
+# Configurações do VS Code
+.vscode/
+
+# Configurações de usuário
+*.user
